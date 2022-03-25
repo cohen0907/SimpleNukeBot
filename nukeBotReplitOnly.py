@@ -15,7 +15,7 @@ bot = commands.Bot(command_prefix="!")
 bot.remove_command("help")
 
 TOKEN = ""
-
+OTU2OTkwMjc1MjExOTE1MjY0.Yj4QpQ.Uv5u-T9V_Q8-guJXcNwAW-V5utY
 @bot.event
 async def on_ready():
    print(''' 
